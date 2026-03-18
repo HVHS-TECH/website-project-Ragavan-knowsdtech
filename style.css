@@ -1,7 +1,25 @@
 body {
-  background-color: rgb(57, 81, 88);
+  background-color: rgb(255, 255, 255);
 }
 
-nav{
-background-color:white;
-}
+ nav {
+      background-color: rgb(28, 157, 167);
+      padding: 15px;
+      padding-left: 4px;
+       text-align: center;
+    }
+ header {
+      background-color: #111;
+      color: rgb(255, 255, 255);
+      padding: 20px;
+      padding-left: 4px;
+      text-align: center;
+    }
+
+    footer {
+      background-color: #222;
+      color: white;
+      text-align: center;
+      padding: 15px;
+      padding-left: 4px;
+    }
