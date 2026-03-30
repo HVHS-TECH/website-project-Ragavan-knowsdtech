@@ -59,7 +59,7 @@ font-size: 20px;
   object-fit: cover;        
   aspect-ratio: 1 / 1;   
   width: 100%;
-  max-width: 300px; 
+  max-width: 500px; 
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
