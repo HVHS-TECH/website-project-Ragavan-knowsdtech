@@ -92,7 +92,6 @@ font-size: 20px;
   object-fit: cover;
 }
 
-/* Hide radio buttons */
 .slideshow input {
   display: none;
 }
